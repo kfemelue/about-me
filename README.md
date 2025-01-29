@@ -10,7 +10,7 @@ In my freetime you'll probably find me doing one of the following:
 - playing recreational sports
 - looking up good recipe's for chicken
 - overexplaining my favorite movies
-- spamming song recs to my friends
+- connecting with friends
 - trying out a new restaurant
 
 On this github account you'll find the skills I am practicing, the things that I've learned, and any other projects that excite me.
