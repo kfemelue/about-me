@@ -1,8 +1,8 @@
 body {
     background-color: skyblue;
-    background-image: url("./public/images/joshua-j-cotten-btgICo2Heyg-unsplash.jpg");
+    /* background-image: url("./public/images/joshua-j-cotten-btgICo2Heyg-unsplash.jpg"); */
     background-size: 100%;
-    color: white;
+    color: black;
     font-family: 'Courier New', Courier, monospace;
 }
 img {
