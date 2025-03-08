@@ -1,27 +1,38 @@
 body {
-    background-color: skyblue;
-    /* background-image: url("./public/images/joshua-j-cotten-btgICo2Heyg-unsplash.jpg"); */
+    background-image: url("./public/images/joshua-j-cotten-btgICo2Heyg-unsplash.jpg");
     background-size: 100%;
-    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#about-me-content {
+    background-color: #E2B3A3;
+    color: #211D2E;
+}
+h1 {
     font-family: 'Courier New', Courier, monospace;
+}
+section{
+    font-family: 'Courier New', Courier, monospace;
+    width: 50%;
+    align-self: center;
 }
 img {
     height: 20%;
     width: 20%;
 }
-.blurb {
+/* #blurb {
     justify-content: center;
-}
-.blurb-content{
+} */
+/* #blurb-content{
     text-align: center;
-}
-/* .hobbies {
+} */
+/* #hobbies {
 
 }
-.hobbies-list {
+#hobbies-list {
 
 }
-.article {
+#article {
 
 } */
 
