@@ -4,8 +4,8 @@ body {
     height: 100%;
     background-attachment: fixed;
     background-position: center;
-    background-repeat: no-repeat;
-    
+    background-repeat: repeat;
+    background-size: cover;
 
 }
 #about-me-content {
@@ -17,20 +17,24 @@ body {
     left:15%;
     justify-content: center;
     border-radius: 15%;
+    border-width: thick; 
+    border-color: #211D2E;
+    border-style: solid;
 }
-h1 {
+section, h1{
     font-family: 'Courier New', Courier, monospace;
-}
-section{
-    font-family: 'Courier New', Courier, monospace;
-    width: 50%;
+    width: 60%;
     align-self: center;
     position:relative;
+    left: 10%;
 }
 img {
     border-radius: 20%;
-    height: 30%;
-    width: 30%;
+    height: 33%;
+    width: 33%;
+    border-width: thick; 
+    border-color: #211D2E;
+    border-style: solid;
 }
 /* #blurb {
     justify-content: center;
