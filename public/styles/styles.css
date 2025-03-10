@@ -1,5 +1,5 @@
 body {
-    background-image: url("./public/images/joshua-j-cotten-btgICo2Heyg-unsplash.jpg");
+    background-image: url("../images/joshua-j-cotten-btgICo2Heyg-unsplash.jpg");
     background-size: cover;
     height: 100%;
     background-attachment: fixed;
@@ -14,8 +14,9 @@ body {
     position: absolute;
     right: 20%;
     left:15%;
+    top:10%;
     justify-content: center;
-    border-radius: 15%;
+    border-radius: 10%;
     border-width: thick; 
     border-color: #211D2E;
     border-style: solid;
