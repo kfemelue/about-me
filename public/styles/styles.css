@@ -37,19 +37,12 @@ img {
     border-color: #211D2E;
     border-style: solid;
 }
-/* #blurb {
-    justify-content: center;
-} */
-/* #blurb-content{
-    text-align: center;
-} */
-/* #hobbies {
+
+iframe {
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    top: 10%;
+    left: 10%;
 
 }
-#hobbies-list {
-
-}
-#article {
-
-} */
-
