@@ -16,7 +16,7 @@ body {
     left:20%;
     top:10%;
     justify-content: center;
-    border-radius: 10%;
+    border-radius: 5%;
     border-width: thick; 
     border-color: #211D2E;
     border-style: solid;
@@ -30,7 +30,7 @@ section, h1{
     left: 10%;
 }
 img {
-    border-radius: 20%;
+    border-radius: 10%;
     height: 33%;
     width: 33%;
     border-width: thick; 
