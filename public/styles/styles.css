@@ -1,48 +1,20 @@
-body {
-    background-image: url("../images/joshua-j-cotten-btgICo2Heyg-unsplash.jpg");
-    background-size: cover;
-    height: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: repeat;
-    background-size: cover;
-}
-#about-me-content {
-    background-color: #E2B3A3;
-    color: #211D2E;
-    margin: auto;
-    position: absolute;
-    right: 20%;
-    left:20%;
-    top:10%;
-    justify-content: center;
-    border-radius: 5%;
-    border-width: thick; 
-    border-color: #211D2E;
-    border-style: solid;
-    align-items: flex-start;
-}
-section, h1{
-    font-family: 'Courier New', Courier, monospace;
-    width: 70%;
-    align-self: center;
-    position:relative;
-    left: 10%;
-}
-img {
-    border-radius: 10%;
-    height: 33%;
-    width: 33%;
-    border-width: thick; 
-    border-color: #211D2E;
-    border-style: solid;
+
+#profile-image {
+    width: 20%;
+    height: auto;
+    border-radius: 100%;
 }
 
-iframe {
-    width: 80%;
-    height: 80%;
-    position: absolute;
-    top: 10%;
-    left: 10%;
-
+#index-main {
+    display: grid;
+    grid-template-columns: 20% 1fr;
 }
+
+#index-content {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+
+
+
